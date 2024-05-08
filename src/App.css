@@ -1,0 +1,30 @@
+.mcontainer{
+  height:100vh !important
+}
+.mpage{
+  padding:  20px;
+}
+
+.mnav{
+  background-color: red;
+  padding: 10px;
+}
+.mnav .mlink{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.data{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin:auto;
+  margin-top: 25px;
+}
+.data .Cimg{
+  height: 260px;
+  border-radius: 7px;
+}
+.data .style{
+  padding: 5px;
+  height: 100%;
+  width: 100%;
+  border-radius: 17px;
+}
